@@ -1,0 +1,1 @@
+Sharding is a horizontal database scaling technique that splits large datasets across multiple servers (shards) to increase throughput and storage. It is used when a single database node becomes a bottleneck. Key strategies include hash-based (using a hash function on a shard key for even distribution) and range-based sharding. 
